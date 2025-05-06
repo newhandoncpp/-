@@ -25,6 +25,4 @@
 
 ## 注意 (Note)
 
-本仓库中的 `SEM.*` 文件、`data.sav` 文件以及 `数据真实性证明.pdf` 文件均为 `AI直播电商与人工智能直播电商对消费者购买意向的影响报告.docx` 的支撑与补充材料。详细的研究内容、分析讨论与结论，请参阅 `.docx` 报告文件。
-
-*The `SEM.*` files, `data.sav` file, and `数据真实性证明.pdf` file serve as supporting and supplementary materials for the main report `AI直播电商与人工智能直播电商对消费者购买意向的影响报告.docx`. For detailed research content, analysis, discussion, and conclusions, please refer to the `.docx` report file.*
+本仓库中的 `SEM.*` 文件、`data.sav` 文件以及 `数据真实性证明.pdf` 文件均为论文的支撑与补充材料。详细的研究内容、分析讨论与结论，请参阅论文。
