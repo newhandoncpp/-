@@ -24,8 +24,8 @@
     * *(File: AMOS SEM path diagram file.)*
 * **`SEM.amw`**: AMOS 结构方程模型的工作区（Model Workspace）文件，包含模型设置。
     * *(File: AMOS SEM model workspace file containing the model setup.)*
-* **`data.sav`**: 用于本研究数据分析的原始调查数据（可能已经过脱敏处理），为 SPSS (.sav) 格式。
-    * *(File: Raw survey data (potentially anonymized) used for the data analysis in this study, in SPSS (.sav) format.)*
+* **`data.sav`**: 用于本研究数据分析的原始调查数据，为 SPSS (.sav) 格式。
+    * *(File: Raw survey data used for the data analysis in this study, in SPSS (.sav) format.)*
 * **`数据真实性证明.pdf`**: 关于本研究数据来源及真实性的相关证明文件。
     * *(File: PDF document related to the certification of the source and authenticity of the data used in this study.)*
 * **`README.md`**: 本仓库的说明文件。
