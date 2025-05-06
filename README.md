@@ -1,25 +1,30 @@
-# 本科毕业论文附件仓库
+# 《AI直播电商与人工智能直播电商对消费者购买意向的影响报告》附件仓库
 
-## 简介
+## 简介 (Introduction)
 
-本仓库用于存放作者本科毕业论文《从直播带货与人工智能视角看消费者购买实证研究》的相关附件材料。这些材料是对主论文内容的补充和支撑，包含了研究所使用的原始数据、分析过程文件、调查问卷以及相关的分析结果。
+本仓库用于存放毕业论文/报告《AI直播电商与人工智能直播电商对消费者购买意向的影响报告》的相关附件与支撑材料。主要包含报告本体、研究所使用的原始数据、结构方程模型（SEM）分析过程文件以及数据真实性证明。
 
-## 仓库内容说明
+*This repository stores attachments and supporting materials for the thesis/report titled "Report on the Impact of AI Live Streaming E-commerce and Artificial Intelligence Live Streaming E-commerce on Consumer Purchase Intention". It primarily includes the main report document, raw data used, Structural Equation Modeling (SEM) analysis files, and a data authenticity certificate.*
 
-* **`从直播带货与人工智能视角看消费者购买实证研究/`**: 此文件夹可能包含与论文主题相关的其他辅助文档或早期草稿（*请根据实际情况调整此描述*）。
-* **`SEM_AmosOutput/`**: 存放使用 AMOS 软件进行结构方程模型（SEM）分析所生成的详细输出结果文件。这些文件展示了模型拟合、路径系数检验等具体分析过程。
-* **`SEM.amp`**: AMOS 软件保存的结构方程模型路径图文件。
-* **`SEM.amw`**: AMOS 软件保存的结构方程模型工作区文件，包含了模型设定信息。
-* **`data.sav`**: 本次研究收集的原始调查问卷数据，为 SPSS (.sav) 格式。可以使用 SPSS 或支持此格式的统计软件打开。
-* **`调查问卷及分析结果.pdf`**: PDF文档，包含了本研究实际使用的调查问卷量表内容以及部分核心数据分析结果的汇总。
-* **`README.md`**: 当前的说明文件，对仓库内容进行解释。
+## 仓库内容说明 (Repository Contents)
 
-## 使用说明
+* **`AI直播电商与人工智能直播电商对消费者购买意向的影响报告.docx`**: 本研究的毕业论文/主要报告的 Word 文档。
+    * *(File: The main thesis/report Word document for this study.)*
+* **`SEM.AmosOutput/`**: 存放使用 AMOS 软件进行结构方程模型（SEM）分析所生成的详细输出结果文件。
+    * *(Folder: Contains detailed output files from the Structural Equation Modeling (SEM) analysis performed using AMOS software.)*
+* **`SEM.amp`**: AMOS 结构方程模型的路径图（Path Diagram）文件。
+    * *(File: AMOS SEM path diagram file.)*
+* **`SEM.amw`**: AMOS 结构方程模型的工作区（Model Workspace）文件，包含模型设定。
+    * *(File: AMOS SEM model workspace file containing the model setup.)*
+* **`data.sav`**: 用于本研究数据分析的原始调查数据，为 SPSS (.sav) 格式文件。
+    * *(File: Raw survey data used for the data analysis in this study, in SPSS (.sav) format.)*
+* **`数据真实性证明.pdf`**: 提供关于本研究数据来源及其真实性的证明文件。
+    * *(File: PDF document providing certification regarding the source and authenticity of the data used in this study.)*
+* **`README.md`**: 本仓库的说明文件。
+    * *(File: This README file explaining the repository contents.)*
 
-本仓库中的文件旨在提供研究过程的透明度和可重复性验证。
+## 注意 (Note)
 
-* `data.sav` 文件可用于重新进行数据分析或进一步探索。
-* `.amp` 和 `.amw` 文件可以在 AMOS 软件中打开，查看具体模型构建过程。
-* `SEM_AmosOutput` 文件夹和 `调查问卷及分析结果.pdf` 提供了分析的核心结果和依据。
+本仓库中的 `SEM.*` 文件、`data.sav` 文件以及 `数据真实性证明.pdf` 文件均为 `AI直播电商与人工智能直播电商对消费者购买意向的影响报告.docx` 的支撑与补充材料。详细的研究内容、分析讨论与结论，请参阅 `.docx` 报告文件。
 
-详细的研究背景、理论框架、假设推导、结果讨论与研究结论，请参阅完整的毕业论文正文。
+*The `SEM.*` files, `data.sav` file, and `数据真实性证明.pdf` file serve as supporting and supplementary materials for the main report `AI直播电商与人工智能直播电商对消费者购买意向的影响报告.docx`. For detailed research content, analysis, discussion, and conclusions, please refer to the `.docx` report file.*
