@@ -16,7 +16,7 @@
 
 ## 仓库内容说明 (Repository Contents)
 
-* **`AI直播电商与人工智能直播电商对消费者购买意向的影响报告.docx`**: 此 Word 文档主要说明了本研究调查问卷的发放、回收及有效问卷的统计情况，**并非论文原文**。
+* **`问卷报告.docx`**: 此 Word 文档主要说明了本研究调查问卷的发放、回收及有效问卷的统计情况，**并非论文原文**。
     * *(File: This Word document primarily describes the administration, collection, and statistics of valid responses for the survey questionnaire used in this study. **It is NOT the main thesis text**.)*
 * **`SEM.AmosOutput/`**: 存放使用 AMOS 软件进行结构方程模型（SEM）分析时生成的详细输出结果文件。
     * *(Folder: Contains detailed output files generated during the Structural Equation Modeling (SEM) analysis using AMOS software.)*
